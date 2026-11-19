@@ -1,0 +1,4 @@
+1) Abra um terminal nesta pasta
+2) npm install
+3) npm start
+4) Teste: http://localhost:3000/produtos
